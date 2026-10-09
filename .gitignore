@@ -1,0 +1,28 @@
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Datasets, Logs, and Local DBs
+dataset/
+cv_ready_dataset/
+archive/
+saved_images/
+runs/
+diagnoses.db
+machinelearingproject/
+
+# Temp Office Files
+~$*.docx
+~$*.pptx
+*.tmp
+
+# OS Files
+.DS_Store
+Thumbs.db
